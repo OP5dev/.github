@@ -1,4 +1,4 @@
-# [devsec.top](https://devsec.top/)
+# [DevSec.Top](https://DevSec.Top)
 
 <!--
 
