@@ -1,4 +1,4 @@
-# [∢ OP5.dev](https://op5.dev)
+# [OP5.dev](https://op5.dev) ∢
 
 <!--
 
