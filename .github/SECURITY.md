@@ -1,11 +1,8 @@
 # Security Policy
 
-## Supported Versions
-
-| Version | Supported      |
-| ------- | -------------- |
-| x.x.x   | :green_circle: |
-| <1.0.0  | :red_circle:   |
+> [!TIP]
+>
+> Pin dependencies to immutable release tags to harden against supply chain attacks.
 
 ## Reporting a Vulnerability
 
