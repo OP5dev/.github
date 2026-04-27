@@ -2,7 +2,7 @@
 
 > [!TIP]
 >
-> Pin dependencies to immutable release tags to harden against supply chain attacks.
+> Pin dependencies to [immutable release tags](https://docs.github.com/en/actions/reference/security/secure-use#using-third-party-actions) to harden against supply chain attacks.
 
 ## Reporting a Vulnerability
 
